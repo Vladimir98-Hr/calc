@@ -1,5 +1,3 @@
 # JS Calculator
 
-My first js calculator
-
-
+My first javascript calculator.
